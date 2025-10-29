@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdheerajreddy9&theme=radical&hide_border=true" alt="Dheeraj's Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=jdheerajreddy9&theme=radical&hide_border=true" alt="Dheeraj's Contribution Streak"/>
 </div>
 
 <hr/>
