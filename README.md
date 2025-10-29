@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi there, I'm Dheeraj Reddy 👋</h1>
-  <h3>A passionate Software Developer from India 🇮🇳</h3>
+  <h3>A passionate Software Developer graduated from George Mason University</h3>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 
 ## 🤝 Connect with Me
 <div align="center">
- <a href="[(https://www.linkedin.com/in/dheeraj-reddy-jangaigar-296723248/)]" target="_blank">
+ <a href="https://www.linkedin.com/in/dheeraj-reddy-jangaigar-296723248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
